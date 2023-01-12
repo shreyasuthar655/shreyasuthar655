@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning programming and web development.
 
-👯 I’m looking to collaborate on beginner friendly projects
+👯 I’m looking to collaborate on beginner friendly projects.
