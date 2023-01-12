@@ -1,4 +1,4 @@
-### Hello,
+### Hello there,
 
 🔭 I’m currently pursuing bachelor's degree in computer engineering.
 
